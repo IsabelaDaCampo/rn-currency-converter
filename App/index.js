@@ -1,4 +1,5 @@
 import React from 'react';
 
-import Home from './screens/Home';
-export default () => <Home />;
+import Navigation from './config/Navigation';
+
+export default () => <Navigation />;
